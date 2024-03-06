@@ -1,0 +1,1654 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.w3.org/2002/07/owl"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <Ontology/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://www.gbif.org/species/10779983 -->
+
+    <Class rdf:about="https://www.gbif.org/species/10779983">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2947121"/>
+        <rdfs:label xml:lang="lat">Dipteryx odorata</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/1169 -->
+
+    <Class rdf:about="https://www.gbif.org/species/1169">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/196"/>
+        <rdfs:label xml:lang="lat">Asparagales</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/1176 -->
+
+    <Class rdf:about="https://www.gbif.org/species/1176">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/220"/>
+        <rdfs:label xml:lang="lat">Solanales</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/1351 -->
+
+    <Class rdf:about="https://www.gbif.org/species/1351">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/220"/>
+        <rdfs:label xml:lang="lat">Apiales</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/1369 -->
+
+    <Class rdf:about="https://www.gbif.org/species/1369">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/196"/>
+        <rdfs:label xml:lang="lat">Poales</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/1370 -->
+
+    <Class rdf:about="https://www.gbif.org/species/1370">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/220"/>
+        <rdfs:label xml:lang="lat">Fabales</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/1414 -->
+
+    <Class rdf:about="https://www.gbif.org/species/1414">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/220"/>
+        <rdfs:label xml:lang="lat">Malpighiales</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/196 -->
+
+    <Class rdf:about="https://www.gbif.org/species/196">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/7707728"/>
+        <rdfs:label xml:lang="lat">Liliopsida</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/220 -->
+
+    <Class rdf:about="https://www.gbif.org/species/220">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/7707728"/>
+        <rdfs:label xml:lang="lat">Magnoliopsida</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2378 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2378">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/1414"/>
+        <rdfs:label xml:lang="lat">Passifloraceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2389 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2389">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/1176"/>
+        <rdfs:label xml:lang="lat">Convolvulaceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2396 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2396">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/933"/>
+        <rdfs:label xml:lang="lat">Rutaceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2397 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2397">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/933"/>
+        <rdfs:label xml:lang="lat">Meliaceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2398 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2398">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/933"/>
+        <rdfs:label xml:lang="lat">Anacardiaceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2699430 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2699430">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3740"/>
+        <rdfs:label xml:lang="lat">Ananas</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2703201 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2703201">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3073"/>
+        <rdfs:label xml:lang="lat">Cenchrus</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2703455 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2703455">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3073"/>
+        <rdfs:label xml:lang="lat">Oryza</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2703459 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2703459">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2703455"/>
+        <rdfs:label xml:lang="lat">Oryza sativa</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2703464 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2703464">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2703455"/>
+        <rdfs:label xml:lang="lat">Oryza glaberrima</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2703910 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2703910">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3073"/>
+        <rdfs:label xml:lang="lat">Saccharum</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2705049 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2705049">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3073"/>
+        <rdfs:label xml:lang="lat">Zea</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2705180 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2705180">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3073"/>
+        <rdfs:label xml:lang="lat">Sorghum</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2705181 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2705181">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2705180"/>
+        <rdfs:label xml:lang="lat">Sorghum bicolor</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2705282 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2705282">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3073"/>
+        <rdfs:label xml:lang="lat">Avena</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2705290 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2705290">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2705282"/>
+        <rdfs:label xml:lang="lat">Avena sativa</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2705292 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2705292">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2705282"/>
+        <rdfs:label xml:lang="lat">Avena byzantina</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2705965 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2705965">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3073"/>
+        <rdfs:label xml:lang="lat">Secale</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2705966 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2705966">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2705965"/>
+        <rdfs:label xml:lang="lat">Secale cereale</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2706388 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2706388">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3073"/>
+        <rdfs:label xml:lang="lat">Triticum</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2732664 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2732664">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/7681"/>
+        <rdfs:label xml:lang="lat">Attalea</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2732877 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2732877">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2732664"/>
+        <rdfs:label xml:lang="lat">Attalea speciosa</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2737041 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2737041">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/7681"/>
+        <rdfs:label xml:lang="lat">Syagrus</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2738048 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2738048">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/7681"/>
+        <rdfs:label xml:lang="lat">Astrocaryum</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2738081 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2738081">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2738048"/>
+        <rdfs:label xml:lang="lat">Astrocaryum murumuru</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2739147 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2739147">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/7681"/>
+        <rdfs:label xml:lang="lat">Acrocomia</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2760990 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2760990">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/4686"/>
+        <rdfs:label xml:lang="lat">Musa</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2762680 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2762680">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2760990"/>
+        <rdfs:label xml:lang="lat">Musa acuminata</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2762950 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2762950">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2760990"/>
+        <rdfs:label xml:lang="lat">Musa balbisiana</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2855860 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2855860">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/9624496"/>
+        <rdfs:label xml:lang="lat">Allium schoenoprasum</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2856681 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2856681">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/9624496"/>
+        <rdfs:label xml:lang="lat">Allium sativum</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2874172 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2874172">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2378"/>
+        <rdfs:label xml:lang="lat">Passiflora</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2874190 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2874190">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2874172"/>
+        <rdfs:label xml:lang="lat">Passiflora edulis</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2874482 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2874482">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/6636"/>
+        <rdfs:label xml:lang="lat">Carica</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2874484 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2874484">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2874482"/>
+        <rdfs:label xml:lang="lat">Carica papaya</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2874506 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2874506">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/6634"/>
+        <rdfs:label xml:lang="lat">Cucurbita</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2874515 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2874515">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2874506"/>
+        <rdfs:label xml:lang="lat">Cucurbita maxima</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2874568 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2874568">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/6634"/>
+        <rdfs:label xml:lang="lat">Cucumis</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2874570 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2874570">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2874568"/>
+        <rdfs:label xml:lang="lat">Cucumis melo</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2874621 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2874621">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/8257011"/>
+        <rdfs:label xml:lang="lat">Citrullus lanatus</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2895315 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2895315">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/8798"/>
+        <rdfs:label xml:lang="lat">Coffea</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2895345 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2895345">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2895315"/>
+        <rdfs:label xml:lang="lat">Coffea arabica</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2895528 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2895528">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2895315"/>
+        <rdfs:label xml:lang="lat">Coffea canephora</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2895591 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2895591">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/8798"/>
+        <rdfs:label xml:lang="lat">Genipa</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2895593 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2895593">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2895591"/>
+        <rdfs:label xml:lang="lat">Genipa americana</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2928509 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2928509">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2389"/>
+        <rdfs:label xml:lang="lat">Ipomoea</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2928551 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2928551">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2928509"/>
+        <rdfs:label xml:lang="lat">Ipomoea batatas</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2928997 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2928997">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/7717"/>
+        <rdfs:label xml:lang="lat">Solanum</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2930262 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2930262">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2928997"/>
+        <rdfs:label xml:lang="lat">Solanum tuberosum</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2930617 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2930617">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2928997"/>
+        <rdfs:label xml:lang="lat">Solanum melongena</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2932937 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2932937">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/7717"/>
+        <rdfs:label xml:lang="lat">Capsicum</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2947121 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2947121">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/5386"/>
+        <rdfs:label xml:lang="lat">Dipteryx</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2947798 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2947798">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/5386"/>
+        <rdfs:label xml:lang="lat">Phaseolus</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2956684 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2956684">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/5386"/>
+        <rdfs:label xml:lang="lat">Arachis</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2974262 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2974262">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/5386"/>
+        <rdfs:label xml:lang="lat">Dimorphandra</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2974269 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2974269">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2974262"/>
+        <rdfs:label xml:lang="lat">Dimorphandra mollis</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2974751 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2974751">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/5386"/>
+        <rdfs:label xml:lang="lat">Vicia</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2974832 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2974832">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2974751"/>
+        <rdfs:label xml:lang="lat">Vicia faba</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2975767 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2975767">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/5386"/>
+        <rdfs:label xml:lang="lat">Tamarindus</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2975768 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2975768">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2975767"/>
+        <rdfs:label xml:lang="lat">Tamarindus indica</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/2984934 -->
+
+    <Class rdf:about="https://www.gbif.org/species/2984934">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/6685"/>
+        <rdfs:label xml:lang="lat">Theobroma</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3001068 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3001068">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/5015"/>
+        <rdfs:label xml:lang="lat">Malus</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3001244 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3001244">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3001068"/>
+        <rdfs:label xml:lang="lat">Malus domestica</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3020559 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3020559">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/5015"/>
+        <rdfs:label xml:lang="lat">Prunus</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3034740 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3034740">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/6720"/>
+        <rdfs:label xml:lang="lat">Daucus</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3034742 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3034742">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3034740"/>
+        <rdfs:label xml:lang="lat">Daucus carota</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3034870 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3034870">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/6720"/>
+        <rdfs:label xml:lang="lat">Coriandrum</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3034871 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3034871">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3034870"/>
+        <rdfs:label xml:lang="lat">Coriandrum sativum</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3034906 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3034906">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/6720"/>
+        <rdfs:label xml:lang="lat">Petroselinum</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3042506 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3042506">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3112"/>
+        <rdfs:label xml:lang="lat">Brassica</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3042636 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3042636">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3042506"/>
+        <rdfs:label xml:lang="lat">Brassica napus</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3065 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3065">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/414"/>
+        <rdfs:label xml:lang="lat">Asteraceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3073 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3073">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/1369"/>
+        <rdfs:label xml:lang="lat">Poaceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3075433 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3075433">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/6678"/>
+        <rdfs:label xml:lang="lat">Piper</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3075453 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3075453">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2398"/>
+        <rdfs:label xml:lang="lat">Mangifera</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3086357 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3086357">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3075433"/>
+        <rdfs:label xml:lang="lat">Piper nigrum</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3112 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3112">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/7225535"/>
+        <rdfs:label xml:lang="lat">Brassicaceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3119134 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3119134">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3065"/>
+        <rdfs:label xml:lang="lat">Helianthus</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3140231 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3140231">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3065"/>
+        <rdfs:label xml:lang="lat">Lactuca</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3152205 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3152205">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2984934"/>
+        <rdfs:label xml:lang="lat">Theobroma cacao</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3152208 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3152208">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2984934"/>
+        <rdfs:label xml:lang="lat">Theobroma grandiflorum</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3152652 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3152652">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/6685"/>
+        <rdfs:label xml:lang="lat">Gossypium</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3155252 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3155252">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/9291"/>
+        <rdfs:label xml:lang="lat">Annona</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3169678 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3169678">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/6701"/>
+        <rdfs:label xml:lang="lat">Hancornia</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3169679 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3169679">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3169678"/>
+        <rdfs:label xml:lang="lat">Hancornia speciosa</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3187232 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3187232">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/5014"/>
+        <rdfs:label xml:lang="lat">Psidium</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3189661 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3189661">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/6647"/>
+        <rdfs:label xml:lang="lat">Caryocar</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3189663 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3189663">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3189661"/>
+        <rdfs:label xml:lang="lat">Caryocar brasiliense</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3190155 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3190155">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2396"/>
+        <rdfs:label xml:lang="lat">Citrus</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3190164 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3190164">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3190155"/>
+        <rdfs:label xml:lang="lat">Citrus aurantiifolia</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3190172 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3190172">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3190155"/>
+        <rdfs:label xml:lang="lat">Citrus reticulata</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3190512 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3190512">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2397"/>
+        <rdfs:label xml:lang="lat">Carapa</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3190513 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3190513">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3190512"/>
+        <rdfs:label xml:lang="lat">Carapa guianensis</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3190592 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3190592">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2398"/>
+        <rdfs:label xml:lang="lat">Spondias</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3190598 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3190598">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3190592"/>
+        <rdfs:label xml:lang="lat">Spondias purpurea</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3190638 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3190638">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3075453"/>
+        <rdfs:label xml:lang="lat">Mangifera indica</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3191274 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3191274">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/6676"/>
+        <rdfs:label xml:lang="lat">Malpighia</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3191347 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3191347">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/6676"/>
+        <rdfs:label xml:lang="lat">Byrsonima</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3191361 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3191361">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3191347"/>
+        <rdfs:label xml:lang="lat">Byrsonima crassifolia</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/3740 -->
+
+    <Class rdf:about="https://www.gbif.org/species/3740">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/1369"/>
+        <rdfs:label xml:lang="lat">Bromeliaceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/404 -->
+
+    <Class rdf:about="https://www.gbif.org/species/404">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/220"/>
+        <rdfs:label xml:lang="lat">Piperales</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/412 -->
+
+    <Class rdf:about="https://www.gbif.org/species/412">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/220"/>
+        <rdfs:label xml:lang="lat">Gentianales</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/414 -->
+
+    <Class rdf:about="https://www.gbif.org/species/414">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/220"/>
+        <rdfs:label xml:lang="lat">Asterales</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/4686 -->
+
+    <Class rdf:about="https://www.gbif.org/species/4686">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/627"/>
+        <rdfs:label xml:lang="lat">Musaceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/4691 -->
+
+    <Class rdf:about="https://www.gbif.org/species/4691">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/1414"/>
+        <rdfs:label xml:lang="lat">Euphorbiaceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/5014 -->
+
+    <Class rdf:about="https://www.gbif.org/species/5014">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/690"/>
+        <rdfs:label xml:lang="lat">Myrtaceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/5015 -->
+
+    <Class rdf:about="https://www.gbif.org/species/5015">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/691"/>
+        <rdfs:label xml:lang="lat">Rosaceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/5288819 -->
+
+    <Class rdf:about="https://www.gbif.org/species/5288819">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2699430"/>
+        <rdfs:label xml:lang="lat">Ananas comosus</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/5290052 -->
+
+    <Class rdf:about="https://www.gbif.org/species/5290052">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2705049"/>
+        <rdfs:label xml:lang="lat">Zea mays</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/5293398 -->
+
+    <Class rdf:about="https://www.gbif.org/species/5293398">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/7906352"/>
+        <rdfs:label xml:lang="lat">Euterpe oleracea</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/5293403 -->
+
+    <Class rdf:about="https://www.gbif.org/species/5293403">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/7906352"/>
+        <rdfs:label xml:lang="lat">Euterpe edulis</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/5293875 -->
+
+    <Class rdf:about="https://www.gbif.org/species/5293875">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2737041"/>
+        <rdfs:label xml:lang="lat">Syagrus coronata</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/5294777 -->
+
+    <Class rdf:about="https://www.gbif.org/species/5294777">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/8413640"/>
+        <rdfs:label xml:lang="lat">Mauritia flexuosa</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/5330758 -->
+
+    <Class rdf:about="https://www.gbif.org/species/5330758">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/6979"/>
+        <rdfs:label xml:lang="lat">Colocasia</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/5330776 -->
+
+    <Class rdf:about="https://www.gbif.org/species/5330776">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/5330758"/>
+        <rdfs:label xml:lang="lat">Colocasia esculenta</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/5350452 -->
+
+    <Class rdf:about="https://www.gbif.org/species/5350452">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2947798"/>
+        <rdfs:label xml:lang="lat">Phaseolus vulgaris</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/5353770 -->
+
+    <Class rdf:about="https://www.gbif.org/species/5353770">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2956684"/>
+        <rdfs:label xml:lang="lat">Arachis hypogaea</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/5359660 -->
+
+    <Class rdf:about="https://www.gbif.org/species/5359660">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/7968287"/>
+        <rdfs:label xml:lang="lat">Glycine max</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/5372392 -->
+
+    <Class rdf:about="https://www.gbif.org/species/5372392">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/7467468"/>
+        <rdfs:label xml:lang="lat">Vitis vinifera</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/5380041 -->
+
+    <Class rdf:about="https://www.gbif.org/species/5380041">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/9188216"/>
+        <rdfs:label xml:lang="lat">Ricinus communis</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/5386 -->
+
+    <Class rdf:about="https://www.gbif.org/species/5386">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/1370"/>
+        <rdfs:label xml:lang="lat">Fabaceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/5407099 -->
+
+    <Class rdf:about="https://www.gbif.org/species/5407099">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3155252"/>
+        <rdfs:label xml:lang="lat">Annona squamosa</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/5407273 -->
+
+    <Class rdf:about="https://www.gbif.org/species/5407273">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3155252"/>
+        <rdfs:label xml:lang="lat">Annona muricata</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/5420380 -->
+
+    <Class rdf:about="https://www.gbif.org/species/5420380">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3187232"/>
+        <rdfs:label xml:lang="lat">Psidium guajava</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/5421367 -->
+
+    <Class rdf:about="https://www.gbif.org/species/5421367">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2398"/>
+        <rdfs:label xml:lang="lat">Anacardium</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/5421368 -->
+
+    <Class rdf:about="https://www.gbif.org/species/5421368">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/5421367"/>
+        <rdfs:label xml:lang="lat">Anacardium occidentale</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/5421429 -->
+
+    <Class rdf:about="https://www.gbif.org/species/5421429">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3191274"/>
+        <rdfs:label xml:lang="lat">Malpighia glabra</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/551 -->
+
+    <Class rdf:about="https://www.gbif.org/species/551">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/196"/>
+        <rdfs:label xml:lang="lat">Alismatales</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/552 -->
+
+    <Class rdf:about="https://www.gbif.org/species/552">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/196"/>
+        <rdfs:label xml:lang="lat">Arecales</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/5828197 -->
+
+    <Class rdf:about="https://www.gbif.org/species/5828197">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2703201"/>
+        <rdfs:label xml:lang="lat">Cenchrus americanus</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/6 -->
+
+    <Class rdf:about="https://www.gbif.org/species/6">
+        <rdfs:label xml:lang="lat">Plantae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/627 -->
+
+    <Class rdf:about="https://www.gbif.org/species/627">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/196"/>
+        <rdfs:label xml:lang="lat">Zingiberales</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/6634 -->
+
+    <Class rdf:about="https://www.gbif.org/species/6634">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/7224005"/>
+        <rdfs:label xml:lang="lat">Cucurbitaceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/6636 -->
+
+    <Class rdf:about="https://www.gbif.org/species/6636">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/7225535"/>
+        <rdfs:label xml:lang="lat">Caricaceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/6647 -->
+
+    <Class rdf:about="https://www.gbif.org/species/6647">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/1414"/>
+        <rdfs:label xml:lang="lat">Caryocaraceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/6672 -->
+
+    <Class rdf:about="https://www.gbif.org/species/6672">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/7222050"/>
+        <rdfs:label xml:lang="lat">Vitaceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/6676 -->
+
+    <Class rdf:about="https://www.gbif.org/species/6676">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/1414"/>
+        <rdfs:label xml:lang="lat">Malpighiaceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/6678 -->
+
+    <Class rdf:about="https://www.gbif.org/species/6678">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/404"/>
+        <rdfs:label xml:lang="lat">Piperaceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/6685 -->
+
+    <Class rdf:about="https://www.gbif.org/species/6685">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/941"/>
+        <rdfs:label xml:lang="lat">Malvaceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/6701 -->
+
+    <Class rdf:about="https://www.gbif.org/species/6701">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/412"/>
+        <rdfs:label xml:lang="lat">Apocynaceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/6720 -->
+
+    <Class rdf:about="https://www.gbif.org/species/6720">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/1351"/>
+        <rdfs:label xml:lang="lat">Apiaceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/690 -->
+
+    <Class rdf:about="https://www.gbif.org/species/690">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/220"/>
+        <rdfs:label xml:lang="lat">Myrtales</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/691 -->
+
+    <Class rdf:about="https://www.gbif.org/species/691">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/220"/>
+        <rdfs:label xml:lang="lat">Rosales</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/6979 -->
+
+    <Class rdf:about="https://www.gbif.org/species/6979">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/551"/>
+        <rdfs:label xml:lang="lat">Araceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/718 -->
+
+    <Class rdf:about="https://www.gbif.org/species/718">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/220"/>
+        <rdfs:label xml:lang="lat">Magnoliales</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/7222050 -->
+
+    <Class rdf:about="https://www.gbif.org/species/7222050">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/220"/>
+        <rdfs:label xml:lang="lat">Vitales</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/7224005 -->
+
+    <Class rdf:about="https://www.gbif.org/species/7224005">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/220"/>
+        <rdfs:label xml:lang="lat">Cucurbitales</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/7225535 -->
+
+    <Class rdf:about="https://www.gbif.org/species/7225535">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/220"/>
+        <rdfs:label xml:lang="lat">Brassicales</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/7403263 -->
+
+    <Class rdf:about="https://www.gbif.org/species/7403263">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3140231"/>
+        <rdfs:label xml:lang="lat">Lactuca sativa</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/7413879 -->
+
+    <Class rdf:about="https://www.gbif.org/species/7413879">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2739147"/>
+        <rdfs:label xml:lang="lat">Acrocomia aculeata</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/7467468 -->
+
+    <Class rdf:about="https://www.gbif.org/species/7467468">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/6672"/>
+        <rdfs:label xml:lang="lat">Vitis</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/7647136 -->
+
+    <Class rdf:about="https://www.gbif.org/species/7647136">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3190155"/>
+        <rdfs:label xml:lang="lat">Citrus limon</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/7681 -->
+
+    <Class rdf:about="https://www.gbif.org/species/7681">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/552"/>
+        <rdfs:label xml:lang="lat">Arecaceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/7682 -->
+
+    <Class rdf:about="https://www.gbif.org/species/7682">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/1169"/>
+        <rdfs:label xml:lang="lat">Amaryllidaceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/7707728 -->
+
+    <Class rdf:about="https://www.gbif.org/species/7707728">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/6"/>
+        <rdfs:label xml:lang="lat">Tracheophyta</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/7717 -->
+
+    <Class rdf:about="https://www.gbif.org/species/7717">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/1176"/>
+        <rdfs:label xml:lang="lat">Solanaceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/7828157 -->
+
+    <Class rdf:about="https://www.gbif.org/species/7828157">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3034906"/>
+        <rdfs:label xml:lang="lat">Petroselinum crispum</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/7906352 -->
+
+    <Class rdf:about="https://www.gbif.org/species/7906352">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/7681"/>
+        <rdfs:label xml:lang="lat">Euterpe</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/7968287 -->
+
+    <Class rdf:about="https://www.gbif.org/species/7968287">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/5386"/>
+        <rdfs:label xml:lang="lat">Glycine</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/8077391 -->
+
+    <Class rdf:about="https://www.gbif.org/species/8077391">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3190155"/>
+        <rdfs:label xml:lang="lat">Citrus aurantium</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/8149923 -->
+
+    <Class rdf:about="https://www.gbif.org/species/8149923">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3020559"/>
+        <rdfs:label xml:lang="lat">Prunus persica</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/8185571 -->
+
+    <Class rdf:about="https://www.gbif.org/species/8185571">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3190592"/>
+        <rdfs:label xml:lang="lat">Spondias mombin</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/8230360 -->
+
+    <Class rdf:about="https://www.gbif.org/species/8230360">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3190592"/>
+        <rdfs:label xml:lang="lat">Spondias tuberosa</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/8257011 -->
+
+    <Class rdf:about="https://www.gbif.org/species/8257011">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/6634"/>
+        <rdfs:label xml:lang="lat">Citrullus</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/8413640 -->
+
+    <Class rdf:about="https://www.gbif.org/species/8413640">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/7681"/>
+        <rdfs:label xml:lang="lat">Mauritia</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/8798 -->
+
+    <Class rdf:about="https://www.gbif.org/species/8798">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/412"/>
+        <rdfs:label xml:lang="lat">Rubiaceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/9188216 -->
+
+    <Class rdf:about="https://www.gbif.org/species/9188216">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/4691"/>
+        <rdfs:label xml:lang="lat">Ricinus</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/9206251 -->
+
+    <Class rdf:about="https://www.gbif.org/species/9206251">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/3119134"/>
+        <rdfs:label xml:lang="lat">Helianthus annuus</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/9291 -->
+
+    <Class rdf:about="https://www.gbif.org/species/9291">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/718"/>
+        <rdfs:label xml:lang="lat">Annonaceae</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/933 -->
+
+    <Class rdf:about="https://www.gbif.org/species/933">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/220"/>
+        <rdfs:label xml:lang="lat">Sapindales</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/941 -->
+
+    <Class rdf:about="https://www.gbif.org/species/941">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/220"/>
+        <rdfs:label xml:lang="lat">Malvales</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://www.gbif.org/species/9624496 -->
+
+    <Class rdf:about="https://www.gbif.org/species/9624496">
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/7682"/>
+        <rdfs:label xml:lang="lat">Allium</rdfs:label>
+    </Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
