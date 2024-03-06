@@ -1,0 +1,155 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#">
+    <owl:Class rdf:about="https://www.gbif.org/species/1">
+        <rdfs:label xml:lang="lat">Animalia</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/54">
+        <rdfs:label xml:lang="lat">Arthropoda</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/1"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/216">
+        <rdfs:label xml:lang="lat">Insecta</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/54"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/1457">
+        <rdfs:label xml:lang="lat">Hymenoptera</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/216"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/4334">
+        <rdfs:label xml:lang="lat">Apidae</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/1457"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/1334757">
+        <rdfs:label xml:lang="lat">Apis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/4334"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/1341976">
+        <rdfs:label xml:lang="lat">Apis mellifera</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/1334757"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/44">
+        <rdfs:label xml:lang="lat">Chordata</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/1"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/359">
+        <rdfs:label xml:lang="lat">Mammalia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/44"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/731">
+        <rdfs:label xml:lang="lat">Artiodactyla</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/359"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/9614">
+        <rdfs:label xml:lang="lat">Bovidae</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/731"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/2441017">
+        <rdfs:label xml:lang="lat">Bos</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/9614"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/2441022">
+        <rdfs:label xml:lang="lat">Bos taurus</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2441017"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/2441047">
+        <rdfs:label xml:lang="lat">Capra</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/9614"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/2441056">
+        <rdfs:label xml:lang="lat">Capra hircus</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2441047"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/9531221">
+        <rdfs:label xml:lang="lat">Ovis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/9614"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/2441110">
+        <rdfs:label xml:lang="lat">Ovis aries</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/9531221"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/5302">
+        <rdfs:label xml:lang="lat">Suidae</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/731"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/2441213">
+        <rdfs:label xml:lang="lat">Sus</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/5302"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/537">
+        <rdfs:label xml:lang="lat">Characiformes</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/1"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/7331">
+        <rdfs:label xml:lang="lat">Prochilodontidae</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/537"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/2352148">
+        <rdfs:label xml:lang="lat">Prochilodus</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/7331"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/2352151">
+        <rdfs:label xml:lang="lat">Prochilodus brevis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2352148"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/2352154">
+        <rdfs:label xml:lang="lat">Prochilodus lineatus</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2352148"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/2352177">
+        <rdfs:label xml:lang="lat">Prochilodus argenteus</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2352148"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/2352125">
+        <rdfs:label xml:lang="lat">Semaprochilodus</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/7331"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/2352126">
+        <rdfs:label xml:lang="lat">Semaprochilodus insignis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2352125"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/2352134">
+        <rdfs:label xml:lang="lat">Semaprochilodus taeniurus</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2352125"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/4287106">
+        <rdfs:label xml:lang="lat">Serrasalmidae</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/537"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/2353218">
+        <rdfs:label xml:lang="lat">Piaractus</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/4287106"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/2353219">
+        <rdfs:label xml:lang="lat">Piaractus mesopotamicus</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2353218"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/1069">
+        <rdfs:label xml:lang="lat">Osteoglossiformes</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/1"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/4228">
+        <rdfs:label xml:lang="lat">Arapaimidae</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/1069"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/2402332">
+        <rdfs:label xml:lang="lat">Arapaima</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/4228"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/5212877">
+        <rdfs:label xml:lang="lat">Arapaima gigas</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/2402332"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/587">
+        <rdfs:label xml:lang="lat">Perciformes</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/1"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/8522">
+        <rdfs:label xml:lang="lat">Cichlidae</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/587"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/2370578">
+        <rdfs:label xml:lang="lat">Tilapia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/8522"/>
+    </owl:Class>
+</rdf:RDF>
