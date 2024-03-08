@@ -76,6 +76,22 @@
         <rdfs:label xml:lang="lat">Sus</rdfs:label>
         <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/5302"/>
     </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/797">
+        <rdfs:label xml:lang="lat">Lepidoptera</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/216"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/8832">
+        <rdfs:label xml:lang="lat">Bombycidae</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/797"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/1868660">
+        <rdfs:label xml:lang="lat">Bombyx</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/8832"/>
+    </owl:Class>
+    <owl:Class rdf:about="https://www.gbif.org/species/1868664">
+        <rdfs:label xml:lang="lat">Bombyx mori</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/1868660"/>
+    </owl:Class>
     <owl:Class rdf:about="https://www.gbif.org/species/537">
         <rdfs:label xml:lang="lat">Characiformes</rdfs:label>
         <rdfs:subClassOf rdf:resource="https://www.gbif.org/species/1"/>
